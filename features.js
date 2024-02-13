@@ -1,3 +1,4 @@
 localStorage
 length
 blur
+history
